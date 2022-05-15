@@ -1,0 +1,31 @@
+.weather-container {
+    border-radius: 15px;
+    width: 400px;
+    height: 400px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(175, 197, 235);
+    margin-top: 50px;
+    
+   
+  }
+  
+  .città {
+    margin-top: 50px;
+  }
+
+  .seleziona-città {
+    margin-top: 40px;
+  }
+
+  h3, h4 {
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+  }
+
+  
